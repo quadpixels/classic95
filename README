@@ -1,0 +1,35 @@
+My modified version of the Classic95 Icon Theme.
+It includes some fixes for Xubuntu, like:
+
+- Bluetooth status icon
+- Bluetooth mouse battery level icon
+
+Original Classic95 Webpage:
+http://gnome-look.org/content/show.php/Classic95?content=157298
+
+Original README:
+
+Classic icons for GNOME/MATE based on Windows 95.
+This new version was developed for the MATE desktop, so more icons will be changed in MATE than in GNOME. This will be the last release in a while. It is still incomplete, but a large improvement over previous versions. Looks very good with the Classic95 and Tux-Overlay Matenu/Gnomenu themes (seen in the screenshot). The gtk theme in the screenshot is Xfce-Redmond with the Xfce engine commented out. I hope this update will be enjoyed, it was fun to put this together.
+
+Changelog:
+
+3/3: Fixed removable drive links
+Added icons
+3/5: Added some icons
+3/14: Finished file types
+Updated some icons, added some
+3/24: Added/changed some icons
+4/1: Added links to folder icons
+Added 48x48 remote folder icon
+4/8: Changed home folder icon 
+*********
+Version 0.8:
+
+-Many many more icons.
+-Many links for MATE specific applications
+-Removed windoze branding
+
+Version 0.8p1 (Patch 1)
+
+-Nice network indicators patch from bluedxca93 that improves cinnamon functionality
